@@ -7,3 +7,6 @@
 [using transformers in Spacy's module, and shows sentiment classifer XL-Net ](https://github.com/adrienpayong/bert/blob/main/Spacy_Transformers_Demo.ipynb)
 
 [offensive language text classification with BERT](https://github.com/adrienpayong/bert/blob/main/Codalab_Offensive_Language_Competition.ipynb)
+
+[fine-tuning BERT on the Arabic-SQuAD dataset](https://github.com/adrienpayong/bert/blob/main/Codalab_Offensive_Language_Competition.ipynb)
+
