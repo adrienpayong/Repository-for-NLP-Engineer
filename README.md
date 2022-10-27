@@ -14,3 +14,10 @@
 
 [using the contextualized_topic_models library for zero-shot TM using Multi-Lingual BERT on custom articles](https://github.com/adrienpayong/bert/blob/main/Tutorial_(v1_8_0)_Zero_shot_cross_lingual_topic_modeling.ipynb)
 
+[ training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/Experiments_RoBERTa%2BTF_IDF.ipynb)
+
+[training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/05_BERT_CONLL_NER.ipynb)
+
+
+
+
