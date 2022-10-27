@@ -8,5 +8,5 @@
 
 [offensive language text classification with BERT](https://github.com/adrienpayong/bert/blob/main/Codalab_Offensive_Language_Competition.ipynb)
 
-[fine-tuning BERT on the Arabic-SQuAD dataset](https://github.com/adrienpayong/bert/blob/main/Codalab_Offensive_Language_Competition.ipynb)
+[fine-tuning BERT on the Arabic-SQuAD dataset](https://github.com/adrienpayong/bert/blob/main/bert_arabicqa.ipynb)
 
