@@ -18,6 +18,9 @@
 
 [training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/05_BERT_CONLL_NER.ipynb)
 
+[training an adapter for a transformer model](https://github.com/adrienpayong/bert/blob/main/AdapterHub_01_Adapter_Training.ipynb)
+[Combining Pre-Trained Adapters using AdapterFusion](https://github.com/adrienpayong/bert/blob/main/AdapterHub_01_Adapter_Training.ipynb)
+
 
 
 
