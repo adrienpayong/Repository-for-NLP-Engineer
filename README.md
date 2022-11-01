@@ -26,7 +26,9 @@
 
 [ common issues with existing NER models and its sensitivity to text structure. SpaCy's library is used](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/NERIssues.ipynb)
 
-[ training and evaluating an NER model with spaCy on the CoNLL dataset](https://github.com/adrienpayong/Repository-for-NLP-Engineer)
+[ using SpaCy and NLTK for various preprocessing tasks](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/Tokenization_Stemming_lemmatization_stopword_postagging.ipynb)
+
+[creating a document vector via spaCy library](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/DocVectors_using_averaging_Via_spacy.ipynb)
 
 
 
