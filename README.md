@@ -19,9 +19,13 @@
 [training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/05_BERT_CONLL_NER.ipynb)
 
 [training an adapter for a transformer model](https://github.com/adrienpayong/bert/blob/main/AdapterHub_01_Adapter_Training.ipynb)
+
 [Combining Pre-Trained Adapters using AdapterFusion](https://github.com/adrienpayong/bert/blob/main/AdapterHub_01_Adapter_Training.ipynb)
+
 [Demo for using the KeyBERT keyphrase extraction library on the Hebrew language](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/keyBERT_hebrew.ipynb)
+
 [ common issues with existing NER models and its sensitivity to text structure. SpaCy's library is used](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/NERIssues.ipynb)
+
 [ training and evaluating an NER model with spaCy on the CoNLL dataset](https://github.com/adrienpayong/Repository-for-NLP-Engineer)
 
 
