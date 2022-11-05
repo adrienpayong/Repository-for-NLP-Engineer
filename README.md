@@ -16,7 +16,7 @@
 
 [ training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/Experiments_RoBERTa%2BTF_IDF.ipynb)
 
-[training and conducting inference with RoBERTa for multi-class classification via TensorFlow](https://github.com/adrienpayong/bert/blob/main/05_BERT_CONLL_NER.ipynb)
+[Leverage BERT to perform NER on conll2003 dataset](https://github.com/adrienpayong/bert/blob/main/05_BERT_CONLL_NER.ipynb)
 
 [training an adapter for a transformer model](https://github.com/adrienpayong/bert/blob/main/AdapterHub_01_Adapter_Training.ipynb)
 
