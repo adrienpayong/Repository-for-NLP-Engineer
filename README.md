@@ -31,6 +31,12 @@
 
 [creating a document vector via spaCy library](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/DocVectors_using_averaging_Via_spacy.ipynb)
 
+[using LDA for topic modeling](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/1_51_Topic_Modelling_in_Python_with_NLTK_and_Gensim.ipynb)
+
+[using RNN for generating text](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/colabRNN.ipynb)
+
+[ training and evaluating an LSTM for sentiment analysis on tweets](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/Sentiment_Analyst_Test_v4.ipynb)
+
 
 
 
