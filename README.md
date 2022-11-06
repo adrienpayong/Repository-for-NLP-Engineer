@@ -37,6 +37,8 @@
 
 [ training and evaluating an LSTM for sentiment analysis on tweets](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/Sentiment_Analyst_Test_v4.ipynb)
 
+[ conducting inference using T5 and BART for summarization](https://github.com/adrienpayong/Repository-for-NLP-Engineer/blob/main/Text_summarisation_with_BART_%26_T5%2C_HuggingFace.ipynb)
+
 
 
 
